@@ -39,6 +39,12 @@ body{
     border-radius: 10px;
 }
 
+.accordin-container{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
 .woman{
     width: 80%;
     margin: -135px auto 25px auto;
@@ -80,8 +86,18 @@ body{
 .active .answer{
     display: block;
     padding-bottom: 1.3rem;
+    padding-top: 1.3rem;
     color: var(--very-dark-blue);
     transition: all 0.3s ease-in;
+}
+
+.active i{
+    transform: rotate(180deg);
+    transition: all 0.3s ease-in;
+}
+
+.active h3{
+    font-weight: 700;
 }
 
 .question{
