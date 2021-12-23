@@ -1,2 +1,8 @@
-* Toggle ainda nao funcinando - corrigido e funcionando 100%
-* Projeto iniciado pela metodologia Mobile-first, versao desktop nao completa.
+# FAQ Accordin Card - Frontend Mentor Challenge
+
+Projeto realizado utilizando a metodologia 'mobile-first'.
+
+
+
+[Projeto Live](https://cadufc91.github.io/FAQ-accordion-card-challenge/)
+
